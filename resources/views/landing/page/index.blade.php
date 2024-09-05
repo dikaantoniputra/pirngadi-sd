@@ -308,86 +308,43 @@ Bukti Pembayaran
       <div class="teachers">
          <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
-               <div class="teacher">
-                  <div class="teacher-img">
-                     <img src="https://via.placeholder.com/1120x1680" alt="" class="w-100">
-                     <div class="sc-div">
-                        <ul>
-                           <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>
-                        <span><img src="assets/img/plus.png" alt=""></span>
-                     </div>
-                  </div>
-                  <div class="teacher-info">
-                     <h3><a href="teacher-single.html" title="">Polina Kerston</a></h3>
-                     <span>English Teacher</span>
-                  </div>
-               </div><!--teacher end-->
+                <div class="teacher">
+                    <div class="teacher-info">
+                        <h3><a href="teacher-single.html" title="">Rovita Devi N.</a></h3>
+                        <span>Kepala Sekolah</span>
+                    </div>
+                </div><!--teacher end-->
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
-               <div class="teacher">
-                  <div class="teacher-img">
-                     <img src="https://via.placeholder.com/1376x2064" alt="" class="w-100">
-                     <div class="sc-div">
-                        <ul>
-                           <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>
-                        <span><img src="assets/img/plus.png" alt=""></span>
-                     </div>
-                  </div>
-                  <div class="teacher-info">
-                     <h3><a href="teacher-single.html" title="">Faadi Al Rahman</a></h3>
-                     <span>Instructor</span>
-                  </div>
-               </div><!--teacher end-->
+                <div class="teacher">
+                    <div class="teacher-info">
+                        <h3><a href="teacher-single.html" title="">Hermin Yuniastuti</a></h3>
+                        <span>Guru</span>
+                    </div>
+                </div><!--teacher end-->
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
-               <div class="teacher">
-                  <div class="teacher-img">
-                     <img src="https://via.placeholder.com/1336x2004" alt="" class="w-100">
-                     <div class="sc-div">
-                        <ul>
-                           <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>
-                        <span><img src="{{ asset('') }}assets/img/plus.png" alt=""></span>
-                     </div>
-                  </div>
-                  <div class="teacher-info">
-                     <h3><a href="teacher-single.html" title="">Chikelu Obasea</a></h3>
-                     <span>Art Teacher</span>
-                  </div>
-               </div><!--teacher end-->
+                <div class="teacher">
+                    <div class="teacher-info">
+                        <h3><a href="teacher-single.html" title="">Sherly Roosdiana</a></h3>
+                        <span>Guru</span>
+                    </div>
+                </div><!--teacher end-->
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
-               <div class="teacher">
-                  <div class="teacher-img">
-                     <img src="https://via.placeholder.com/1204x1804" alt="" class="w-100">
-                     <div class="sc-div">
-                        <ul>
-                           <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                           <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>
-                        <span><img src="assets/img/plus.png" alt=""></span>
-                     </div>
-                  </div>
-                  <div class="teacher-info">
-                     <h3><a href="teacher-single.html" title="">Katayama Fumiki</a></h3>
-                     <span>Teacher</span>
-                  </div>
-               </div><!--teacher end-->
+                <div class="teacher">
+                    <div class="teacher-info">
+                        <h3><a href="teacher-single.html" title="">Salsabella Dewantihudi</a></h3>
+                        <span>Guru</span>
+                    </div>
+                </div><!--teacher end-->
             </div>
-         </div>
+        </div>
+        
       </div><!--teachers end-->
 
       <div class="lnk-dv text-center">
-         <a href="/sd-kristen-pirngadi-kelas" title="" class="btn-default">Guru Kami <i class="fa fa-long-arrow-alt-right"></i></a>
+         <a href="/sd-kristen-pirngadi-guru" title="" class="btn-default">Guru Kami <i class="fa fa-long-arrow-alt-right"></i></a>
       </div>
    </div>
 </section>

@@ -72,18 +72,11 @@
 
 <div class="responsive-menu">
    <ul>
-      <li><a href="index.html" title="">Home</a></li>
-      <li><a href="about.html" title="">About</a></li>
-      <li><a href="events.html" title="">Events</a></li>
-      <li><a href="event-single.html" title="">Event Single</a></li>
-      <li><a href="schedule.html" title="">Schedule</a></li>
-      <li><a href="classes.html" title="">Classes</a></li>
-      <li><a href="class-single.html" title="">Classe Single</a></li>
-      <li><a href="teachers.html" title="">Teachers</a></li>
-      <li><a href="teacher-single.html" title="">Teacher Single</a></li>
-      <li><a href="blog.html" title="">Blog</a></li>
-      <li><a href="post.html" title="">Blog Single</a></li>
-      <li><a href="contacts.html" title="">Contacts</a></li>
-      <li><a href="error.html" title="">404</a></li>
+      <li><a class="active" href="/" title="">Home</a></li>
+      <li><a href="sd-kristen-pirngadi-about" title="">Tentang Kami</a>
+      <li><a href="/sd-kristen-pirngadi-guru" title="">Profile Guru </a></li>
+      <li><a href="/sd-kristen-pirngadi-kelas" title="">Kelas</a></li>
+      <li><a href="/sd-kristen-pirngadi-foto" title="">Galery</a></li>
+      <li><a href="/sd-kristen-pirngadi-kontak" title="">Kontak</a></li>
    </ul>
 </div><!--responsive-menu end-->
